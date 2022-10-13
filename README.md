@@ -1,4 +1,4 @@
-# App Academy Adventure Combat
+# App Academy Adventure Combat  (npm test not workng)
 
 Welcome to App Academy Adventure! For this project, you will be extending your
 original adventure game with an enemy class and asynchronous combat.
